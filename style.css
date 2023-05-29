@@ -1,0 +1,24 @@
+.photo{
+    width: 150px;
+    height:150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box {
+    text-align: center;
+    width: 300px;
+    border: 15px solid blue;
+    padding: 50px;
+    margin: auto;
+    height: 450px;
+  }
+  
+*{  
+    margin: 0%; 
+}
+
+  .inner {
+    position: absolute;
+  }
+  
