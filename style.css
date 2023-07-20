@@ -11,13 +11,15 @@
     border: 15px solid blue;
     padding: 50px;
     margin: auto;
-    height: 450px;
-  }
-  
+    height: 500px;
+  } 
 *{  
     margin: 0%; 
 }
-
+.logo{
+    width:30px;
+    margin-right: 100%;
+}
   .inner {
     position: absolute;
   }
